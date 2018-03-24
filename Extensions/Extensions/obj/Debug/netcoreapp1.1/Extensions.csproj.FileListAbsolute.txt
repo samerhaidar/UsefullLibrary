@@ -1,0 +1,9 @@
+C:\Users\Samer\Documents\GitHub\UsefullLibrary\Extensions\Extensions\bin\Debug\netcoreapp1.1\Extensions.deps.json
+C:\Users\Samer\Documents\GitHub\UsefullLibrary\Extensions\Extensions\bin\Debug\netcoreapp1.1\Extensions.runtimeconfig.json
+C:\Users\Samer\Documents\GitHub\UsefullLibrary\Extensions\Extensions\bin\Debug\netcoreapp1.1\Extensions.runtimeconfig.dev.json
+C:\Users\Samer\Documents\GitHub\UsefullLibrary\Extensions\Extensions\bin\Debug\netcoreapp1.1\Extensions.dll
+C:\Users\Samer\Documents\GitHub\UsefullLibrary\Extensions\Extensions\bin\Debug\netcoreapp1.1\Extensions.pdb
+C:\Users\Samer\Documents\GitHub\UsefullLibrary\Extensions\Extensions\obj\Debug\netcoreapp1.1\Extensions.csprojResolveAssemblyReference.cache
+C:\Users\Samer\Documents\GitHub\UsefullLibrary\Extensions\Extensions\obj\Debug\netcoreapp1.1\Extensions.AssemblyInfo.cs
+C:\Users\Samer\Documents\GitHub\UsefullLibrary\Extensions\Extensions\obj\Debug\netcoreapp1.1\Extensions.dll
+C:\Users\Samer\Documents\GitHub\UsefullLibrary\Extensions\Extensions\obj\Debug\netcoreapp1.1\Extensions.pdb
